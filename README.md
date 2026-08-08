@@ -121,7 +121,7 @@ modo_atual: "[ESTUDANDO] -> [CONSTRUINDO] -> [APLICANDO PARA ESTÁGIO]"
   para dados de eleitores e
   candidatos, backend estruturado
 ```
-![Status](https://img.shields.io/badge/STATUS-EM_EVOLUÇÃO-5865f2?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-5865f2?style=for-the-badge&labelColor=0d1117)
 
 </td>
 </tr>
